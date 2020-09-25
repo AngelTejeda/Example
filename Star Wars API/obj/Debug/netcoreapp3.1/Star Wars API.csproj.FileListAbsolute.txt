@@ -1,0 +1,16 @@
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\bin\Debug\netcoreapp3.1\Star Wars API.exe
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\bin\Debug\netcoreapp3.1\Star Wars API.deps.json
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\bin\Debug\netcoreapp3.1\Star Wars API.runtimeconfig.json
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\bin\Debug\netcoreapp3.1\Star Wars API.runtimeconfig.dev.json
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\bin\Debug\netcoreapp3.1\Star Wars API.dll
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\bin\Debug\netcoreapp3.1\Star Wars API.pdb
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\obj\Debug\netcoreapp3.1\Star Wars API.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\obj\Debug\netcoreapp3.1\Star Wars API.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\obj\Debug\netcoreapp3.1\Star Wars API.AssemblyInfo.cs
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\obj\Debug\netcoreapp3.1\Star Wars API.dll
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\obj\Debug\netcoreapp3.1\Star Wars API.pdb
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\obj\Debug\netcoreapp3.1\Star Wars API.genruntimeconfig.cache
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\obj\Debug\netcoreapp3.1\Star Wars API.csproj.CopyComplete
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\angel\Desktop\Escuela\.NET Core\Star Wars API\Star Wars API\obj\Debug\netcoreapp3.1\Star Wars API.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOp5xBUdhjeQzENIzzRHGwMqGFcpIG7nSU6zPqA0ewx/aFCngDBYPe2FEEWihdw4HfBqUQwOVV/4GDyZfhQFdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel\\Desktop\\Escuela\\.NET Core\\Star Wars API\\Star Wars API\\Star Wars API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}
