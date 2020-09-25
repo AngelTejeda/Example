@@ -20,6 +20,7 @@ namespace Star_Wars_API {
                 Console.WriteLine("Altura: " + personaje.Height);
                 Console.WriteLine("Masa: " + personaje.Mass);
                 Console.WriteLine("Planeta: " + planetJSON.name);
+                Console.WriteLine("Fin del personaje");
                 Console.WriteLine("------------------");
             }
         }
